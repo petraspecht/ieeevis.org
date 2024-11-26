@@ -4,7 +4,7 @@ layout: page
 permalink: /year/2025/info/call-participation/paper-submission-guidelines
 active_nav: "Contribute"
 sidebar: call-for-participation
-contact: papers@ieeevis.org
+contact: opc@ieeevis.org
 ---
 
 IEEE Vis follows the [area model](/year/2025/info/call-participation/area-model), and thus a paper for IEEE VIS should be submitted to one of six areas. Make sure that you carefully read both the descriptions for each of the six areas (see also the [area model FAQs](/year/2025/info/call-participation/area-model#frequently-asked-questions)) and the guidelines below before submitting your paper.
