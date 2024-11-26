@@ -1,7 +1,7 @@
 ---
 title: "Papers - Call For Participation"
 permalink: /year/2025/info/call-participation/call-for-participation
-contact: papers@ieeevis.org
+contact: opc@ieeevis.org
 active_nav: "Contribute"
 layout: landing
 sidebar: call-for-participation
@@ -47,12 +47,13 @@ All deadlines are at 11:59pm (23:59) AoE **Anywhere on Earth [(AoE)](https://tim
 
 | Submission activity | Date                     |
 |---------------------|--------------------------|
-| [Abstract submission (MANDATORY)](https://new.precisionconference.com/vgtc) | Thursday, March 21, 2025   |
-| [Paper submission](https://new.precisionconference.com/vgtc) | Sunday, March 31, 2025 |
-| Notification of results of first review cycle | Thursday, June 6, 2025     |
-| Paper submission for second review cycle | Monday, July 1, 2025     |
-| Final notification | Monday, July 15, 2025    |
-| Camera-ready copy | Thursday, August 8, 2025   |
+| [Abstract submission (MANDATORY)](https://new.precisionconference.com/vgtc) | March 21, 2025   |
+| [Paper submission](https://new.precisionconference.com/vgtc) | March 31, 2025 |
+| Supplemental material submission (**NEW in 2025**) | April 7, 2025     |
+| Notification of results of first review cycle | June 6, 2025     |
+| Paper submission for second review cycle | July 1, 2025     |
+| Final notification | July 15, 2025    |
+| Camera-ready copy | August 8, 2025   |
 
 <!---
 {% include alert.html
