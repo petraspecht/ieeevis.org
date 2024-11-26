@@ -4,7 +4,7 @@ layout: page
 permalink: /year/2025/info/call-participation/area-model
 active_nav: "Contribute"
 # sidebar: none
-contact: papers@ieeevis.org
+contact: opc@ieeevis.org
 ---
 
 ## Introduction
