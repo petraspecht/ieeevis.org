@@ -4,7 +4,7 @@ layout: page
 permalink: /year/2025/info/call-participation/paper-keywords
 active_nav: "Contribute"
 sidebar: call-for-participation
-contact: papers@ieeevis.org
+contact: opc@ieeevis.org
 ---
 
 
