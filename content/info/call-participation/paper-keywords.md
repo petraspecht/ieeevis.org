@@ -17,14 +17,12 @@ contact: papers@ieeevis.org
 - [Example Papers](#example-papers)
 
 ## Summary
-
-* This document describes the keywords used by IEEE VIS since 2020 for the submission process
-* Keywords are meant to support matching of papers to reviewers
-* Authors should use keywords differently than in years before 2020:
-    * Authors **should** check keywords to **indicate expertise** required to review their submitted paper.
-    * They **should NOT** check all keywords necessary to describe the content of their submitted paper.
-* Reviewers use the keywords to rate their expertise, as in the years before.
-
+This document describes the keywords used by IEEE VIS since 2020 for the submission process:  
+    - Keywords are meant to support matching of papers to reviewers  
+    - Authors should use keywords differently than in years before 2020:  
+        - Authors **should** check keywords to **indicate expertise** required to review their submitted paper.  
+        - They **should NOT** check all keywords necessary to describe the content of their submitted paper.  
+    - Reviewers use the keywords to rate their expertise, as in the years before.
 
 ## Keyword Use
 
@@ -50,10 +48,10 @@ A reviewer should imagine preceding each keyword by the phrase:
 
 and then **for each keyword** select an expertise rating among four options:
 
-* **None:** I have not published on or read enough papers related to the keyword to feel comfortable giving advice as a reviewer.
-* **Limited:** I have limited experience and knowledge related to the keyword. I can give some advice as a reviewer but not about specific details.
-* **Competent:** I feel competent to give input as a reviewer on at least some topics covered by this keyword. I understand and can discuss topics related to this keyword.
-* **Expert:** I am an expert in topics covered by this keyword. I can provide guidance, troubleshoot and answer questions related to this keyword or contexts where it is used.
+    - **None:** I have not published on or read enough papers related to the keyword to feel comfortable giving advice as a reviewer.
+    - **Limited:** I have limited experience and knowledge related to the keyword. I can give some advice as a reviewer but not about specific details.
+    - **Competent:** I feel competent to give input as a reviewer on at least some topics covered by this keyword. I understand and can discuss topics related to this keyword.
+    - **Expert:** I am an expert in topics covered by this keyword. I can provide guidance, troubleshoot and answer questions related to this keyword or contexts where it is used.
 
 Reviewers can also specify **additional expertise keywords** in provided text fields. These additional keywords cannot be taken into account by the paper-matching algorithm and, therefore, will not be used to automatically recommend papers to a reviewer but paper chairs and PC members might take them into account for manual assignments from papers to reviewers and they will be used to collect data on future iterations of the keyword set.
 
@@ -63,26 +61,26 @@ Reviewers can also specify **additional expertise keywords** in provided text fi
 Following is the complete list of keywords with a description for each keyword:
 
 ### Data Types and Their Use in Visualization and Visual Analytics
-* **Geospatial Data** (Geospatial): data with geospatial (lat/lon) locations or trajectories
-* **Graph/Network and Tree Data** (Network): data with network (node/link) or tree/hierarchy structure
-* **High-dimensional Data** (HD): data with a large number of dimension columns (features/attributes) that requires extra effort to process
-*	**Data Models** (Models): the structure of statistical and simulation models, model results and outputs, and the parameter spaces of model inputs as for example in machine learning
-*	**Scalar Field Data** (Scalar): spatial/volume data with one or more scalar variables
-* **Image and Video Data** (ImageVideo): imagery data in the form of stills or video
-*	**Tabular Data** (Tabular):	tables of row/column data with a moderate number of columns that are directly represented
-* **Temporal Data** (Time):	data that has a temporal component (e.g. time series, time-oriented data, events, time-varying data, trajectories over time...)
-*	**Text/Document Data** (Text):	data in the form of text or documents
-*	**Vector and Tensor Field Data** (Vector_Tensor):	spatial data containing vector and tensor fields
-* **Other Data** (OtherData): a data type that does not reasonably fit into any other category
-* **DataType Agnostic** (NAData):	no special expertise on data types is required for my paper
+    - **Geospatial Data** (Geospatial): data with geospatial (lat/lon) locations or trajectories
+    - **Graph/Network and Tree Data** (Network): data with network (node/link) or tree/hierarchy structure
+    - **High-dimensional Data** (HD): data with a large number of dimension columns (features/attributes) that requires extra effort to process
+    - **Data Models** (Models): the structure of statistical and simulation models, model results and outputs, and the parameter spaces of model inputs as for example in machine learning
+    - **Scalar Field Data** (Scalar): spatial/volume data with one or more scalar variables
+    - **Image and Video Data** (ImageVideo): imagery data in the form of stills or video
+    - **Tabular Data** (Tabular):	tables of row/column data with a moderate number of columns that are directly represented
+    - **Temporal Data** (Time):	data that has a temporal component (e.g. time series, time-oriented data, events, time-varying data, trajectories over time...)
+    - **Text/Document Data** (Text):	data in the form of text or documents
+    - **Vector and Tensor Field Data** (Vector_Tensor):	spatial data containing vector and tensor fields
+    - **Other Data** (OtherData): a data type that does not reasonably fit into any other category
+    - **DataType Agnostic** (NAData):	no special expertise on data types is required for my paper
 
 ### Intended Contributions to Visualization and Visual Analytics
 #### General Contributions
-*	**Algorithms** (Algorithm): the design or implementation of data analysis/visualization algorithms
-*	**Data Abstractions and Types** (DataAbstr): the process of reducing a particular body of data to a simplified representation and/or improvements or new uses of datasets/-types
-*	**Datasets** (Datasets): contributing new datasets for benchmarking or understanding techniques / the field itself
-*	**Deployment** (Deployment): deployment of tools/techniques "in the wild"
-*	**Methodologies** (Methodology): methodologies for visualization incl. design, evaluation, processes, collaboration, ...
+    - **Algorithms** (Algorithm): the design or implementation of data analysis/visualization algorithms
+    - **Data Abstractions and Types** (DataAbstr): the process of reducing a particular body of data to a simplified representation and/or improvements or new uses of datasets/-types
+    - **Datasets** (Datasets): contributing new datasets for benchmarking or understanding techniques / the field itself
+    - **Deployment** (Deployment): deployment of tools/techniques "in the wild"
+    - **Methodologies** (Methodology): methodologies for visualization incl. design, evaluation, processes, collaboration, ...
 *	**Application Motivated Visualization** (Application): applying, adapting, or creating novel visualization techniques to address specific challenges presented by real-world applications; incl. design studies
 *	**Guidelines** (Guidelines): deriving or applying guidelines for design and use of visualization & visual analytics techniques
 *	**Interaction Design** (Interaction): the design of interaction techniques and/or interaction design methodologies and practices for any interaction modalities (touch, pen, mouse, speech, proxemics, ...)
